@@ -137,6 +137,10 @@ export default {
         
         ul{
             display: flex;
+            height:60px;
+            align-items: center;
+            color:white;
+            background: #000;
         }
         ul li{
             margin: 0;
