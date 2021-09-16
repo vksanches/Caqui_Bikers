@@ -1,7 +1,7 @@
 <template>
     <header>
         <nav class="container">
-        <a href="/"><img id="logo" src="https://scontent.fgru8-1.fna.fbcdn.net/v/t1.6435-9/116258287_3234601993274647_2262335002916708686_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=R7DUR9EHwVkAX9isBLA&_nc_ht=scontent.fgru8-1.fna&oh=6bdeae68845d6b3fd6a67ba82171efee&oe=61550F4B" alt=""></a>
+        <a href="/"><img id="logo" src="https://scontent.fgru8-1.fna.fbcdn.net/v/t1.6435-9/116258287_3234601993274647_2262335002916708686_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=R7DUR9EHwVkAX9isBLA&_nc_ht=scontent.fgru8-1.fna&oh=6bdeae68845d6b3fd6a67ba82171efee&oe=61550F4B" alt="Caqui Bikers"></a>
         
         <img v-on:click="openMenu" src="https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/images/menu.svg" alt="Menu" id="menu-botton">
         
